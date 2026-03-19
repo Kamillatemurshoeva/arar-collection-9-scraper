@@ -1,10 +1,9 @@
-# arar-collection-9-scraper
-
+# ARAR Collection 9 Scraper -  Digitized copies of Armenian books printed from 1512 untill nowadays, the books without publication date, and the books containing texts in Armenian (up to 1800).
 This repository contains a Python scraper designed to extract **metadata from the Pan-Armenian Digital Library (ARAR)**.
 
 The target source is:
 
-**ARAR Collection 9**
+**Digitized copies of Armenian books printed from 1512 untill nowadays, the books without publication date, and the books containing texts in Armenian (up to 1800).*
 
 The project is part of **Open Data Armenia**, an initiative that aims to collect, organize, and document **Armenian cultural heritage around the world**.
 
